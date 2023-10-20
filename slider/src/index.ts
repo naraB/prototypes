@@ -1,0 +1,1 @@
+export {SoundSlider} from './SoundSlider';
